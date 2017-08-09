@@ -1,0 +1,44 @@
+{
+  "id" : "colonystoryFull",
+  "title" : "How I Became A Landlord",
+  "species" : "human",
+  "description" : "The journal of an explorer who became a landlord. The complete compilation in one tome.",
+  "icon" : "colonystory.png",
+  "contentPages" : [
+
+    "Last summer was one of the wettest I'd seen in the Rana Esker VI forest region. I only came out there for coffee (gotta have them fresh forest beans), and after one too many snaunts in the pouring rain I was ready to go back to bed. I could see a small dilapidated shack on the hilltop, so I began to trudge up there. It wasn't so bad when I reached it, there was even a sleeping bag and the remnants of an old campfire, obviously a popular spot for soggy, exhausted adventurers such as myself.",
+	
+	"In the morning I was greeted by a spectacular view of the sunrise over the dense forest canopy far below. I figured this little shack could be of use to others who find themselves lost in the woods like me, so I set about removing the overgrowth and replacing some rotten beams to fill the gaps in the walls and floors. It quickly became a much larger renovation project, and I took up semi-permanent residence there for a time. That little shack began to feel like a veritable home from home for me, so I decided it deserved a tenant.",
+	
+	"I'd met a Frogg merchant who'd set up shop on the Outpost selling furniture, he'd told me to come back to him if I ever wanted to try my hand at intergalactic real estate. So I planted a flag and hopped over there in my ship to see him. 
+
+He sold me a \"Colony Deed\" and told me to place it on the wall. Provided the house was well lit, furnished and structurally sound, an ad would be sent out and a suitable tenant would immediately take up residence.",
+
+"I was sceptical at first, but sure enough after filling the shack with furniture I'd looted from a Floran village (what can I say, I'm a sucker for the sticks 'n' bones aesthetic) I placed the deed on the wall and a complete stranger beamed right to where I was standing. 
+
+And so began my long and arduous relationship with the Floran known as Ambiri.",
+
+"For a Floran, Ambiri seems to like water a great deal. He's always opening the doors when it's raining and running outside. 
+
+Yesterday I came home to a flood in the basement where Ambiri had decided to dry off next to my furnace after getting particularly soaked. Good job I reinforced the walls with tomb stone bricks. 
+
+Maybe he would appreciate a fish tank?",
+
+"One lesson I've learnt as a landlord: don't give a Floran bongos! They will play them night and day, and if you try to take them away when they are sleeping they will definitely know it was you. 
+
+Ambiri isn't all bad to have around though, you can't fault his craftsmanship with plants. Although, I did expect more than salves as rent when I entered into this agreement.",
+
+"After some time, Ambiri began asking me for favours. It started small, growing the odd vegetable and cooking dishes occasionally. I was happy to oblige, and even built a small farm next to the house for convenience. 
+
+I very much enjoyed those warm autumn evenings we shared on the veranda by a crackling campfire. One evening, Ambiri announced that he would like to join me on my adventures and see the universe for himself.", 
+
+"I was surprised, as he had shown no prior interest in leaving the planet he had come to call home. It must have been all the exciting tales I told every time I came to collect the rent and check up on the leafy little guy.
+
+I'd grown fond of him, so I accepted his offer. He's been a medic on my ship ever since, even coming into the field with me from time to time. He still gets sick when he uses a teleporter, but we're working on that."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Common",
+    "price" : 145
+  }
+}
