@@ -42,7 +42,7 @@
    "scriptDelta" : 0,
    
    "interactData" : {
-    "config" : "/objects/bookstore/bookstore.config",
+    "config" : "/interface/windowconfig/bookstore.config",
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : "Bookstore",

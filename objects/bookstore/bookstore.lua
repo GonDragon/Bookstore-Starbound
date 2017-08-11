@@ -9,9 +9,8 @@ function onInteraction(args)
   interactData.recipes = {}
 
   local storeInventory = config.getParameter("storeInventory")
-  addRecipes(interactData, storeInventory.novels, "novels")
-  addRecipes(interactData, storeInventory.manuals, "manuals")
-  addRecipes(interactData, storeInventory.history, "history")
+  
+  for genre,objects in pairs(storeInventory) do addRecipes(interactData, objects, genre) end
 
   return { "OpenCraftingInterface", interactData }
 end
