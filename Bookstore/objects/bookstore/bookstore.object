@@ -52,7 +52,22 @@
         }
       }
     },
-    "filter" : []
+    "filter" : [],
+	"modTab" : [{
+      "file": "/interface/bookstore/tabicon_novels.png",
+	  "label": "Novels",
+      "filter": [ "novels" ]
+    },
+	{
+      "file": "/interface/bookstore/tabicon_manuals.png",
+	  "label": "Manuals",
+      "filter": [ "manuals" ]
+    },
+	{
+      "file": "/interface/bookstore/tabicon_history.png",
+	  "label": "History",
+      "filter": [ "history" ]
+    }]
   },
 
   "storeInventory" : {
