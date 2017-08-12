@@ -8,20 +8,14 @@ function onInteraction(args)
   local interactData = config.getParameter("interactData")
   interactData.recipes = {}
 
-  local storeInventory = config.getParameter("storeInventory")
-  
-  for genre,objects in pairs(storeInventory) do addRecipes(interactData, objects, genre) end
-  
-  --
-  -- Test things
-  --
+  local storeInventory = config.getParameter("storeInventory")  
   local tabs = interactData["modTab"]
   local posY = 277
   local categories = {
       type = "radioGroup",
       toggleMode = false,
       buttons = {}
-	  }
+	}
   
   if #tabs > 0 then
 	  for i,modtab in ipairs(tabs) do
@@ -70,9 +64,7 @@ function onInteraction(args)
 	  interactData.paneLayoutOverride["categories"] = categories
   end
   
-  ---
-  --- End of testing
-  ---
+  for genre,objects in pairs(storeInventory) do addRecipes(interactData, objects, genre) end
 
   return { "OpenCraftingInterface", interactData }
 end

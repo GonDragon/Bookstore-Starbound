@@ -1,0 +1,36 @@
+[
+	[
+		{
+		"op": "add",
+		"path": "/storeInventory/novels/-",
+		"value": "ancientalphabet-codex" 
+		} 
+	],
+	[
+	  { "op": "add",
+		"path": "/interactData/modTab/-",
+		"value": {
+		  "file": "/interface/crafting/tabicon_ingredientsbottle.png",
+		  "label": "Science",
+		  "filter": [ "science" ]
+		}
+	  },
+	  {
+	    "op": "add",
+		"path": "/storeInventory/science",
+		"value": []
+	  }
+	],
+	[
+		{
+		"op": "add",
+		"path": "/storeInventory/science/-",
+		"value": "apexhistory3-codex" 
+		},
+		{
+		"op": "add",
+		"path": "/storeInventory/science/-",
+		"value": "apexhistory7-codex" 
+		} 
+	]
+]
