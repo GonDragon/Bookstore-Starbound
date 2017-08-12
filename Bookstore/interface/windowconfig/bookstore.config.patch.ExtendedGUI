@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/background/fileBody",
+    "value": "/interface/v6crafting/farmbody.png"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/close/position/1",
+    "value": 335
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/bgShine/file",
+    "value": "/interface/v6crafting/shine.png"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnUpgrade/position/1",
+    "value": 332
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblSchematics/position/1",
+    "value": 319
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProducttitle/position/1",
+    "value": 319
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/description/position/1",
+    "value": 115
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/scrollArea/rect/3",
+    "value": 295
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lvlNovels/position/1",
+    "value": 297
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblManuals/position/1",
+    "value": 279
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblHistory/position/1",
+    "value": 261
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/categories/buttons/0/position/1",
+    "value": 295
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/categories/buttons/1/position/1",
+    "value": 277
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/categories/buttons/2/position/1",
+    "value": 259
+  },
+  { "op": "replace", "path": "/paneLayout/background/fileBody", "value": "/interface/mt_crafting/mtbodyextended.png" },
+  { "op": "replace", "path": "/paneLayout/scrollArea/rect/3", "value": 304 }
+]

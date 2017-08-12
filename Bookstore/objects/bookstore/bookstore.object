@@ -1,0 +1,69 @@
+{
+  "objectName" : "bookstore",
+  "colonyTags" : ["outpost","commerce"],
+  "rarity" : "Common",
+  "category" : "other",
+  "description" : "There is no friend as loyal as a book.",
+  "shortdescription" : "Bookstore",
+  "race" : "generic",
+  "printable" : false,
+  "lightColor" : [46, 66, 77],
+  
+  "apexDescription" : "A bookstore selling books. Splendid.",
+  "avianDescription" : "The best place to buy books.",
+  "floranDescription" : "What iss the use of those flappy thingss? Floran don't get it...",
+  "glitchDescription" : "Interested. There are some good books here.",
+  "humanDescription" : "A book store! I hope that they also sell some comics.",
+  "hylotlDescription" : "Oh, a bookstore! There is nothing as a good book...",
+  "novakidDescription" : "I will never understand why someone would buy some of those.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "bookstore.png:idle.<frame>", "fullbright" : true }, { "image" : "bookstore.png:idle.<frame>" } ],
+      "direction" : "left",
+
+      "lightPosition" : [-1, 2],
+
+      "imagePosition" : [-64, 0],
+      "frames" : 32,
+      "animationCycle" : 3.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "collision" : "platform",
+	  "collisionSpaces" : [ [-6,6], [-5,6], [-4,6], [-3,6], [-2,6], [-1,6], [0,6], [1,6]
+	  
+	  ]
+    }
+  ],
+  
+   "scripts" : [ "bookstore.lua" ],
+   "scriptDelta" : 0,
+   
+   "interactData" : {
+    "config" : "/interface/windowconfig/bookstore.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Bookstore",
+        "subtitle" : "There is no friend as loyal as a book.",
+        "icon" : {
+          "file" : "/objects/bookstore/icon.png"
+        }
+      }
+    },
+    "filter" : []
+  },
+
+  "storeInventory" : {
+    "novels" : [
+      "colonystoryFull-codex"
+    ],
+    "manuals" : [
+      "colonymanual-codex"
+    ],
+    "history" : [
+      "apexhistory1-codex", "avianhistory9-codex", "floranhistory2-codex", "glitchhistory9-codex", "humanhistory3-codex", "hylotlhistory6-codex"
+    ]
+  }
+}
