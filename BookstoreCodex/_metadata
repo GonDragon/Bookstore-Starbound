@@ -1,0 +1,9 @@
+{
+  "author" : "GonDragon",
+  "description" : "This mod is an addon for the mo [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1108897518]The Bookstore[/url].\n\nIt adds all the Codex entries as purchasable books, implementing three new tabs: Races, Missions and Other.",
+  "friendlyName" : "Codex - A bookstore addon",
+  "link" : "steam://url/CommunityFilePage/1109790315",
+  "name" : "codexBookstore",
+  "steamContentId" : "1109790315",
+  "version" : "1.0"
+}
