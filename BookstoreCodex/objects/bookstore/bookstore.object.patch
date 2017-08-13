@@ -1,0 +1,888 @@
+[
+	[
+	  { "op": "add",
+		"path": "/interactData/modTab/-",
+		"value": {
+		  "file": "/interface/bs_codex/tabicon_races.png",
+		  "label": "Races",
+		  "filter": [ "races" ]
+		}
+	  },
+	  {
+		"op": "add",
+		"path": "/storeInventory/races",
+		"value": []
+	  }
+	],
+	[
+	  { "op": "add",
+		"path": "/interactData/modTab/-",
+		"value": {
+		  "file": "/interface/bs_codex/tabicon_missions.png",
+		  "label": "Missions",
+		  "filter": [ "missions" ]
+		}
+	  },
+	  {
+		"op": "add",
+		"path": "/storeInventory/missions",
+		"value": []
+	  }
+	],
+	[
+	  { "op": "add",
+		"path": "/interactData/modTab/-",
+		"value": {
+		  "file": "/interface/bs_codex/tabicon_other.png",
+		  "label": "Other",
+		  "filter": [ "other" ]
+		}
+	  },
+	  {
+		"op": "add",
+		"path": "/storeInventory/other",
+		"value": []
+	  }
+	],
+	
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexhistory1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexhistory2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexhistory3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexhistory4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexhistory5-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexhistory6-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexhistory7-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexhistory8-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexhistory9-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexhistory10-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "apexspace1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "avianhistory1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "avianhistory2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "avianhistory3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "avianhistory4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "avianhistory5-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "avianhistory6-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "avianhistory7-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "avianhistory8-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "avianhistory9-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "yolotlisdiary1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "yolotlisdiary2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "yolotlisdiary3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "yolotlisdiary4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "floranhistory1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "floranhistory2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "floranhistory3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "floranhistory4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "floranhistory5-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "floranhistory6-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "floranhistory7-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "floranhistory8-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "floranhistory9-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "floranhistory10-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "glitchhistory1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "glitchhistory2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "glitchhistory3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "glitchhistory4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "glitchhistory5-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "glitchhistory6-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "glitchhistory7-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "glitchhistory8-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "glitchhistory9-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanhistory1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanhistory2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanhistory3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanhistory4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanhistory5-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanhistory6-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanhistory7-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanhistory8-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanhistory9-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanhistory10-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "humanspace1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "hylotlhistory1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "hylotlhistory2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "hylotlhistory3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "hylotlhistory4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "hylotlhistory5-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "hylotlhistory6-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "hylotlhistory7-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "hylotlhistory8-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/races/-",
+	  "value": "hylotlspace1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "castleguest-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "castlemisunderstanding-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "castleprefix-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "florvilarchitect-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "sewerdayout-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "shipseasick-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "townresistance-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "townsilly-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "trappedtomb-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "protectorate1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "protectorate2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "ancientalphabet-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "esthersjournal-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/other/-",
+	  "value": "finalpostcard-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/novels/-",
+	  "value": "colonystory1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/novels/-",
+	  "value": "colonystory2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/novels/-",
+	  "value": "colonystory3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/novels/-",
+	  "value": "colonystory4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/novels/-",
+	  "value": "colonystory5-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/novels/-",
+	  "value": "colonystory6-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "apexmission1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "apexmission2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "apexmission3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "apexmission4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "avianmission1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "avianmission2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "avianmission3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "avianmission4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "floranmission1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "floranmission2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "floranmission3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "floranmission4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "glitchmission1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "glitchmission2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "glitchmission3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "glitchmission4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "hylotlmission1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "hylotlmission2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "hylotlmission3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "hylotlmission4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "hylotlmission5-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "hylotlmission6-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "hylotlmission7-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "hylotlmission8-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "hylotlmission9-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "lunarmission1-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "lunarmission2-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "lunarmission3-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "lunarmission4-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "bossdreadwing-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "bossshockhopper-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "castleking01-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "castleking02-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "castleking03-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "castleking04-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "castleking05-codex" 
+	  } 
+	],
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/missions/-",
+	  "value": "castleking06-codex" 
+	  } 
+	]
+]
