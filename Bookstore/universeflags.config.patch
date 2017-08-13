@@ -6,7 +6,7 @@
     "type" : "placeDungeon",
     "dungeonId" : "outpost_bookstore",
     "targetInstance" : "outpost",
-    "targetPosition" : [315, 619]
+    "targetPosition" : [393, 608]
   }
 }
 ]
