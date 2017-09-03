@@ -1,0 +1,10 @@
+{
+  "itemName" : "itemName",
+  "rarity" : "Common",
+  "price" : 25,
+  "category" : "postcard",
+  "inventoryIcon" : "itemName.png",
+  "description" : "Info about the flyer.",
+  "shortdescription" : "Display Name",
+  "largeImage" : "itemNamelarge.png"  
+}

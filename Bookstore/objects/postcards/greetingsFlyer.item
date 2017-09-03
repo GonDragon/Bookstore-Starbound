@@ -1,0 +1,11 @@
+{
+  "itemName" : "greetingsFlyer",
+  "rarity" : "Common",
+  "price" : 25,
+  "category" : "postcard",
+  "tooltipKind" : "tool",
+  "inventoryIcon" : "greetings.png",
+  "description" : "Greetings from ^gray;The Outpost^white;. I hope we can meet anytime soon.",
+  "shortdescription" : "Outpost Postcard",
+  "largeImage" : "greetingsLarge.png"  
+}

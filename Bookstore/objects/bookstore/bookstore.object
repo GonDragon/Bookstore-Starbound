@@ -72,7 +72,7 @@
 
   "storeInventory" : {
     "novels" : [
-      "colonystoryFull-codex"
+      "colonystoryFull-codex", "hylotlmission8-codex"
     ],
     "manuals" : [
       "colonymanual-codex"

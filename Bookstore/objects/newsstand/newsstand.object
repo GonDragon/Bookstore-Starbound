@@ -1,0 +1,83 @@
+{
+  "objectName" : "newsstand",
+  "colonyTags" : ["outpost","commerce"],
+  "rarity" : "Common",
+  "category" : "other",
+  "description" : "Extra! Extra! Buy some newspapers here!",
+  "shortdescription" : "Newspaper Stand",
+  "race" : "generic",
+  "printable" : false,
+  
+  "apexDescription" : "A Novachild selling some newspapers.",
+  "avianDescription" : "A kid selling newspapers.",
+  "floranDescription" : "A little kid yelling about thingss.",
+  "glitchDescription" : "Intrigued. A lot of things are happening in the universe.",
+  "humanDescription" : "A newspapers stand! Maybe there are some notice about the humans that escaped earth.",
+  "hylotlDescription" : "A child shouldn't be working here.",
+  "novakidDescription" : "Oh, a lil boy! Work hard gain hard, kido.",
+  
+  "lightColor" : [46, 66, 77],
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "newsstand.png:<color>.<frame>", "fullbright" : true }, { "image" : "newsstandlit.png:<color>.<frame>" } ],
+      "direction" : "left",
+
+      "lightPosition" : [2, 3],
+      "imagePosition" : [-24, 0],
+      "frames" : 9,
+      "animationCycle" : 2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  
+   "scripts" : [ "newsstand.lua" ],
+   "scriptDelta" : 0,
+   
+   "interactData" : {
+    "config" : "/interface/windowconfig/bookstore.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Newspaper Stand",
+        "subtitle" : "Extra! Extra! Learn all about everything!",
+        "icon" : {
+          "file" : "/objects/newsstand/icon.png"
+        }
+      }
+    },
+    "filter" : []
+  },
+
+  "modTab" : [{
+      "file": "/interface/newsstand/tabicon_news.png",
+	  "label": "News",
+      "filter": [ "news" ]
+    },
+	{
+      "file": "/interface/newsstand/tabicon_cards.png",
+	  "label": "Cards",
+      "filter": [ "cards" ]
+    }],
+  
+  "storeInventory" : {
+    "news" : [ 
+    
+    ],
+    "cards" : [
+      "greetingsFlyer", "postcardFlyer", "protectorateFlyer", "valentineFlyer"
+    ]
+  },
+  "storeRandomPool" : {
+    "news" : [
+      "apexhistory2-codex", "avianhistory6-codex", "floranhistory3-codex", "glitchhistory2-codex", "humanhistory2-codex", "hylotlspace1-codex"
+    ],
+    "cards" : [
+    
+    ]
+  },
+  "rotationTime" : 86400, // time of feature set availability in seconds
+  "poolAmount" : 3 // number of items to get obtained from the random pool
+}

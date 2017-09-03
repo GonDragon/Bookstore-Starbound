@@ -1,0 +1,11 @@
+{
+  "itemName" : "protectorateFlyer",
+  "rarity" : "Common",
+  "price" : 25,
+  "tooltipKind" : "tool",
+  "category" : "junk",
+  "inventoryIcon" : "protectorate.png",
+  "description" : "An old propaganda about the protectorate.",
+  "shortdescription" : "Protectorate Flyer",
+  "largeImage" : "protectorateLarge.png"  
+}

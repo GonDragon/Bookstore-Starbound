@@ -8,7 +8,7 @@
  "margin":0,
  "name":"bookstore",
  "spacing":0,
- "tilecount":1,
+ "tilecount":2,
  "tileheight":74,
  "tileproperties":
     {
@@ -21,11 +21,31 @@
          "imagePositionY":"0",
          "object":"bookstore",
          "tilesetDirection":"left"
+        },
+     "1":
+        {
+         "\/\/description":"Extra! Extra! Buy some newspapers here!",
+         "\/\/name":"newsstand",
+         "\/\/shortdescription":"Newspaper Stand",
+         "imagePositionX":"-24",
+         "imagePositionY":"0",
+         "object":"newsstand",
+         "tilesetDirection":"left"
         }
     },
  "tilepropertytypes":
     {
      "0":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "1":
         {
          "\/\/description":"string",
          "\/\/name":"string",
@@ -43,6 +63,12 @@
          "image":"..\/..\/..\/..\/tiled\/bookstore-custom\/Library copy.png",
          "imageheight":74,
          "imagewidth":127
+        },
+     "1":
+        {
+         "image":"..\/..\/..\/..\/tiled\/bookstore-custom\/newsstand.png",
+         "imageheight":56,
+         "imagewidth":48
         }
     },
  "tilewidth":127,

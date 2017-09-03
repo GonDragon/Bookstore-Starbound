@@ -1,0 +1,11 @@
+{
+  "itemName" : "postcardFlyer",
+  "rarity" : "Common",
+  "price" : 25,
+  "tooltipKind" : "tool",
+  "category" : "postcard",
+  "inventoryIcon" : "postcard.png",
+  "description" : "Greetings from ^orange;Somewhere^white;. I'm having a good time vacationing in some place, I wish you were here.",
+  "shortdescription" : "Vacations Postcard.",
+  "largeImage" : "postcardLarge.png"  
+}

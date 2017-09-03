@@ -1,0 +1,11 @@
+{
+  "itemName" : "valentineFlyer",
+  "rarity" : "Common",
+  "price" : 25,
+  "tooltipKind" : "tool",
+  "category" : "postcard",
+  "inventoryIcon" : "valentine.png",
+  "description" : "Be my ^red;Space Valentine^white;. Please.",
+  "shortdescription" : "Valentine Card",
+  "largeImage" : "valentineLarge.png"  
+}

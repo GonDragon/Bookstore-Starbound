@@ -1,5 +1,5 @@
 function init()
-  self.buyFactor = config.getParameter("buyFactor", root.assetJson("/merchant.config").defaultBuyFactor)
+  self.buyFactor = config.getParameter("buyFactor", root.assetJson("/merchant.config").defaultBuyFactor) * 3
 
   object.setInteractive(true)
 end
