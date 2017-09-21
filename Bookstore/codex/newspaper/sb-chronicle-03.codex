@@ -1,0 +1,37 @@
+{
+  "id" : "sb-chronicle-03",
+  "species" : "other",
+  "title" : "The Agaran Menace",
+  "description" : "\"The Agaran Menace Strikes Hylotl Camp\"",
+  "icon" : "newspaper.png",
+  "contentPages" : [
+    "Somewhere, out there amongst the stars, a group of Hylotl peace missionaries fiddle with their radio and attempt to contact home. They have no luck, just like the last time, and the time before, and the time before that.",
+    
+    "Outside of their cave, the entrance of which they've disguised with a net of branches and leaves, strange noises can be heard. Unusual, garbled chattering; an alien language, unknown to the Universal Linguistics Database. The automated translators fail to parse the chattering, but the Hylotl know. 'Find them,' the voices are saying. 'Find the fish people.'",
+    
+    "The Hylotl are down to their last ration pack now. They ran out of bandages days ago, after Kawaski slipped down a cliff and needed patching up. He recovered, but they're in a bad way now. Hungry, thirsty, cold, warmed only by the campfire they dare not light until they're sure the creatures outside are gone.",
+    
+    "Agarans, they are called. Named by Greenfinger, of course. What creature isn't these days? The Agarans are plants - the Hylotl knew this coming to the planet, they knew the risks, the suspicion the Agarans regard them with, their unknown connection to the Florans. But the Agarans have been peaceful until now. Sure, they've been cropping up more and more around the galaxy; spreading, spore-like, although nobody has ever seen them engage in space travel.",
+    
+    "Of course, the Hylotl sent their peace missionaries to make contact, to understand this strange, mushroom-like species. To guide them down the right path, to distance them from the vile Florans. But here, on this remote planet, the Agarans proved just as menacing as any other murderous plant.",
+    
+    "The missionaries encountered the first group standing around a towering monolith made of plant matter. They were chanting, singing, dancing. The smell of blood and fire lingered on the air. Blindly, arrogantly, the missionaries approached.",
+    
+    "The Agarans stared at them, then began to jabber in that strange, unknown language. Then, seemingly as if commanded by a silent voice, they began to attack.",
+    
+    "The missionaries - or what remains of them anyway - huddle together in the cave. The spores are spreading. Outside, the voices are growing louder. There's a rustling, then nothing. One of the missionaries breathes a sigh of relief, and then the camouflage is torn away from the cave entrance, and the Agarans stand there, murder in their mushroom eyes.",
+    
+    "'Go,' one of the older missionaries whispers to Coralgrower. 'You're still young, strong. You can make it. We'll hold them off. Go.
+
+'Go and warn the universe about the Agaran menace.'",
+
+    "Coralgrower flees, charging through the dark cave, trying to ignore the sounds of battle behind her. Trying to ignore those voices, those sounds, and then... that strange, growling sound, not like a creature at all, but the sounds of something taking root, growing, spreading, filling the mouth of the cave, chasing her down, down, down the dark tunnel, the scent of sap and oak dancing just behind her, out of sight.",
+    
+    "Coralgrower does not stop running until she reaches open ground, and teleports up to the ship. She knows the others are lost. Her heart still racing, her breath still ragged, Coralgrower sits in the captain's chair and makes the jump."
+    
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

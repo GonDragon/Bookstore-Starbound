@@ -1,0 +1,49 @@
+{
+  "id" : "sb-chronicle-02",
+  "species" : "other",
+  "title" : "Investigator goes M.I.A.",
+  "description" : "\"Where in the universe is Charlton McVicar\" says this Starbound Chronicle article",
+  "icon" : "newspaper.png",
+  "contentPages" : [
+    "When we last caught up with the Chronicle's resident investigative reporter, Charlton McVicar, he was out in the field digging up any and all information he could about the mysterious Agarans, sentient fungi spreading throughout the universe. Since then we've had little contact with McVicar, save for the transmission transcribed below-- intercepted by one of Thornwing's drones. Take a look for yourself, readers, and let us know if you have any information on McVicar's whereabouts.",
+    
+    "- Transmission intercepted by ThornDrone 451...
+
+- Word(s) flagged: Agaran, Floran, Hylotl
+
+- Begin decoding and translation...",
+
+    "McVicar: ... stuck in some kind of subterranean cave system. Mushrooms are sprouting from the walls, the floor, all over. There are basic furnishings here; they seem Floran in origin. I don't think this is an old dwelling. It's... it's new.
+
+- Voice analysis complete. Subject: Charlton McVicar, human investigative reporter.",
+
+    "Human 2: McVicar. Abort. It's not worth your life. Let us handle it.
+
+- Voice analysis complete. Subject: General Cassidy Cale, human military leader.
+
+McVicar: No can do. I can hear them up ahead. Two languages. Agaran and Floran. They're not... I can see them... oh my god, the Agarans haven't been attacking the Florans, they've -
+
+*static*",
+
+    "McVicar: There are pods. Dozens and dozens of pods. They're twitching. I think they're about to... holy hell what is that, what in the name of Earth is that...
+
+*a strange, low roar*
+
+- Species analysis pending...
+
+McVicar: I have to get out of here. There's a Hylotl too, and...",
+
+  "McVicar: The mushrooms, they're... they're giving off some kind of gas. The cave's filling with spores. The ground's...
+
+McVicar: If anyone can hear me, anyone at all, I'm at co-ordinates [error in translation]. Bring guns. Bring armies. It's... it's just like on Earth... but... the Hylotl...
+
+*a loud crash, followed by another roar, this time much louder*
+
+- Species analysis failed. Transmission lost..."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

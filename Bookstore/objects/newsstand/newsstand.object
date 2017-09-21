@@ -72,7 +72,15 @@
   },
   "storeRandomPool" : {
     "news" : [
-      "apexhistory2-codex", "avianhistory6-codex", "floranhistory3-codex", "glitchhistory2-codex", "humanhistory2-codex", "hylotlspace1-codex"
+      "apexhistory2-codex",
+      "avianhistory6-codex",
+      "floranhistory3-codex",
+      "glitchhistory2-codex",
+      "humanhistory2-codex",
+      "hylotlspace1-codex",
+      "sb-chronicle-01-codex",
+      "sb-chronicle-02-codex",
+      "sb-chronicle-03-codex"
     ],
     "cards" : [
     

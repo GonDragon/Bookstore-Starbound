@@ -1,0 +1,27 @@
+{
+  "id" : "sb-chronicle-01",
+  "species" : "other",
+  "title" : "The origin of BigCoin",
+  "description" : "An article from The Starbound Chronicle",
+  "icon" : "newspaper.png",
+  "contentPages" : [
+    "The BigCoin is a type of currency described by the MiniKnog as an \"obscurocurrency\" - that is, a currency which \"exists\" but doesn't have a physical incarnation or, for that matter, any sort of tangible way to transfer it. Each Apex is given a weekly allowance of fifty BigCoins, which they are free to use until the week ends.",
+    
+    "Payment with BigCoins works like so: when an Apex wants to buy something (say, a chocolate banana) from another Apex, they mentally deduct the item's cost from the BigCoin wallet inside their brain, and the seller adds the amount to their BigCoin wallet. This system, according to the MiniKnog, works remarkably well and is superior to all other forms of barter.",
+    
+    "The first twenty years of BigCoin use were a trial run, limited to MiniKnog-approved settlements. Once the obscurocurrency was deemed a success, the MiniKnog chose to roll out BigCoins across the entire galaxy. The rollout was accompanied by a dearth of helpful pamphlets, with each bearing Big Ape's official banana seal and a quote from the Ape himself: \"BigCoins are awesome!\"",
+    
+    "Upon BigCoin's introduction to the interstellar market, the currency instantly suffered hyperinflation due to a lack of checks, balances, and brainwashing. Within mere moments, BigCoin became literally worth less than nothing. Shortly afterwards, the rollout was cancelled and, in an unrelated event, bones and DNA belonging to the BigCoin development team were found in the stomachs of a particularly savage band of Florans in the Delta sector. A statement from the MiniKnog on the event blamed a galaxy-wide conspiracy against the Apex.",
+    
+    "Shortly afterwards, the rollout was cancelled and, in an unrelated event, bones and DNA belonging to the BigCoin development team were found in the stomachs of a particularly savage band of Florans in the Delta sector. A statement from the MiniKnog on the event blamed a galaxy-wide conspiracy against the Apex.",
+    
+    "Nowadays, BigCoins are once again limited to MiniKnog settlements, and trading BigCoins with outsiders is punished with summary execution. The illicit BigCoin to Pixel conversion rate is currently six trillion to one, give or take a few.",
+    
+    "Editor's Note: In the absence of the Chronicle's investigative reporter Charlton McVicar, we've decided to run with this educational piece by renowned Hylotl scholar Dr. Isu. Thank you, Dr. Isu, for this inside look into the fascinating culture of the Apex people."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id" : "uniq-id",
+  "species" : "specie",
+  "title" : "tittle",
+  "description" : "description",
+  "icon" : "newspaper.png",
+  "contentPages" : [
+    "page1",
+    "page2"
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}
